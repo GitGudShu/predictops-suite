@@ -1,0 +1,16 @@
+.env
+env
+__pycache__
+
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+docker-compose.yaml
+features_origin_25.csv
+features_origin_01.csv
+/geojsons
+
+/logs
+/gpkg
