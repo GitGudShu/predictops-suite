@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "cdg_centroides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "DCO" }, "geometry": { "type": "Point", "coordinates": [ 4.81453338533849, 45.944334011672474 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "DCE" }, "geometry": { "type": "Point", "coordinates": [ 5.101978115881075, 45.935340715501958 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "HB" }, "geometry": { "type": "Point", "coordinates": [ 5.59872574876604, 46.236284415372772 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "PDG" }, "geometry": { "type": "Point", "coordinates": [ 6.062112145336865, 46.327943263046123 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "VAL" }, "geometry": { "type": "Point", "coordinates": [ 5.77525389984064, 46.039387631481873 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "BGC" }, "geometry": { "type": "Point", "coordinates": [ 5.38146033205884, 46.029203315073723 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "BGE" }, "geometry": { "type": "Point", "coordinates": [ 5.641160400466665, 45.779687563074049 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "BCE" }, "geometry": { "type": "Point", "coordinates": [ 5.230868280850904, 46.234916826008657 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "DVS" }, "geometry": { "type": "Point", "coordinates": [ 4.901100074807765, 46.132743865223247 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "BSN" }, "geometry": { "type": "Point", "coordinates": [ 5.004323271077429, 46.338113488124776 ] } },
+{ "type": "Feature", "properties": { "SOUS_TYPE": "Chef_de_Groupe", "CODE_CS": "BRR" }, "geometry": { "type": "Point", "coordinates": [ 5.32714397788204, 46.358496212270573 ] } }
+]
+}

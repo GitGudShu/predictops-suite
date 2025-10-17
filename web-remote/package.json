@@ -1,0 +1,60 @@
+{
+  "name": "predictops",
+  "version": "0.0.1",
+  "description": "interface predictops",
+  "productName": "Predictops",
+  "author": "sad_notrayanffs <r.abdallah-khodja@sad-marketing.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@awesome.me/kit-52eaa9fb13": "^1.0.19",
+    "@fortawesome/fontawesome-pro": "^6.7.2",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@quasar/cli": "^2.4.0",
+    "@quasar/extras": "^1.16.9",
+    "@quasar/quasar-ui-qmarkdown": "^2.0.0-beta.10",
+    "apexcharts": "^3.44.0",
+    "axios": "^1.5.1",
+    "chroma-js": "^2.4.2",
+    "date-fns": "^3.6.0",
+    "geojson-vt": "^3.2.1",
+    "gsap": "^3.12.2",
+    "highcharts": "^11.2.0",
+    "highcharts-more": "^0.1.7",
+    "highcharts-vue": "^1.4.3",
+    "html2canvas": "^1.4.1",
+    "js-base64": "^3.7.7",
+    "markdown-it": "^14.0.0",
+    "marked": "^11.1.0",
+    "ol": "^8.2.0",
+    "ol-cesium": "^2.17.0",
+    "olcs": "^2.19.0",
+    "quasar": "^2.14.2",
+    "socket.io-client": "^4.8.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4",
+    "vue": "^3.3.4",
+    "vue-draggable-plus": "^0.5.2",
+    "vue-router": "^4.2.5",
+    "vue3-apexcharts": "^1.4.4",
+    "vue3-lottie": "^3.2.0",
+    "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.7.1",
+    "autoprefixer": "^10.4.2",
+    "dotenv": "^16.4.5",
+    "postcss": "^8.4.14"
+  },
+  "engines": {
+    "node": "^18 || ^16 || ^14.19",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
